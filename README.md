@@ -103,8 +103,6 @@ SmartParking/
 - Admin analytics & usage monitoring
 - CSV report export
 
----
 
-npm run dev
 
 
