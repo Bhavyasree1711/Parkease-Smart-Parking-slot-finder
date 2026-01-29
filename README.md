@@ -105,13 +105,6 @@ SmartParking/
 
 ---
 
-## ▶️ How to Run the Project Locally
-
-### Run Frontend
-
-```bash
-cd frontend
-npm install
 npm run dev
 
 
